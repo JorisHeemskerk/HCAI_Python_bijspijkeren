@@ -1,0 +1,51 @@
+animal_name,age,height,weight,zoo_location
+Wolf,2,1.23,36,Bronx Zoo
+Wolf,19,1.07,30,Berlin Zoo
+Kangaroo,25,1.39,88,San Diego Zoo
+Rhino,61,3.31,2179,Tokyo Zoo
+Flamingo,2,1.32,3,Berin Zoo
+Flamingo,26,1.36,3,Berlin Zoo
+Pandaa,30,0.94,108,London Zoo
+Flamingo,23,1.31,3,Melbourne Zoo
+Tiger,19,1.27,143,Melbourne Zoo
+Lion,18,1.73,107,Beijing Zoo
+Gorilla,18,1.75,149,Berlin Zoo
+Kangaroo,7,1.02,46,Berlin Zoo
+Otter,3,0.39,8,Toronto Zoo
+Bear,1,1.71,264,Singapore Zoo
+Tiger,14,1.15,215,Beijing Zoo
+Flamingo,12,1.45,3
+Sloth,7,0.39,2,Melbourne Zoo
+Meerkat,14,0.34,2,Beijing Zoo
+Penguin,None,0.47,9,Toronto Zoo
+Gorilla,12,1.52,127,Singapore Zoo
+Penguin,20,0.59,20,San Diego Zoo
+Gorilla,24,1.45,148,Singapore Zoo
+Chimpanzee,17,1.23,74,Beijing Zoo
+Giraffe,35,2.74,2051,Melbourne Zoo
+Penguin,11,0.43,8,Tokyo Zoo
+Rhino,10,4.63,5561,Singapore Zoo
+Elephant,44,2.42,1529,San Diego Zoo
+Penguin,6,0.58,8,Bronx Zoo
+Gorilla,one,1.33,230,Paris Zoo
+Bear,12,1.76,96,Paris Zoo
+Panda,7,1.1,142,Melbourne\tZoo
+Wolf,23,1.37,148,Berlin Zoo
+Panda,1000000,0.72,113,Melbourne Zoo
+Bear,17,1.0,121,Toronto Zoo
+Bear,22,1.18,267,Tokyo Zoo
+Meerkat,1,0.42,1,Beijing Zoo
+Penguin,20,0.36,5,Paris Zoo
+Gorilla,2,1.35,246,London Zoo
+Chimpanzee,20,1.23,51,London Zoo
+Kangaroo,11,1.42,82,Paris  Zoo
+Otter,6,0.38,11,Toronto Zoo
+Leopard,25,0.91,46,Tokyo Zoo
+Crocodile,14,1.46,49,Melbourne Zoo
+Bear,19,1.33,233,Paris Zoo
+Chimpanzee,12,0.93,76,Berlin Zoo
+Flamingo,25,0.99,4,London Zoo
+Meerkat,"8",0.55,1100,Paris Zoo
+Otter,2,0.45,19,Melbourne Zoo
+bear,12,104,212,Toronto Zoo
+Gorilla,19,1.38,98,Melbourne Zoo
